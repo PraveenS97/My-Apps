@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="praveen_field" label="Praveen Field" language="en" table="x_322142_praveen_praveen">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>praveen_field</element>
+            <help/>
+            <hint/>
+            <label>Praveen Field</label>
+            <language>en</language>
+            <name>x_322142_praveen_praveen</name>
+            <plural>Praveen Fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-11 05:52:17</sys_created_on>
+            <sys_id>26db58f24f4cb300fdba2b8ca310c733</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Praveen Field</sys_name>
+            <sys_package display_value="Praveen" source="x_322142_praveen">dc103b8e4f887300fdba2b8ca310c711</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Praveen">dc103b8e4f887300fdba2b8ca310c711</sys_scope>
+            <sys_update_name>sys_documentation_x_322142_praveen_praveen_praveen_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-11 05:52:17</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

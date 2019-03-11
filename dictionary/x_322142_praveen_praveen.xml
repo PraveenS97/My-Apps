@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" extends="task" label="Praveen" max_length="40" name="x_322142_praveen_praveen" sizeclass="3" type="collection">
+        <element label="New Field" max_length="40" name="new_field" type="string"/>
+        <element label="Praveen Field" max_length="90" name="praveen_field" type="string"/>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_1" type="currency"/>
+        <element label="New Due Date" max_length="40" name="u_due_date_2" type="due_date"/>
+        <element label="New File Attachment" max_length="40" name="u_file_attachment_4" type="file_attachment"/>
+        <element attributes="edge_encryption_enabled=true" label="New URL" max_length="1024" name="u_url_3" type="url"/>
+    </element>
+</database>
